@@ -25,7 +25,10 @@ le_rm = KM["le_rm"]
 def show_feedback_page():
 
 	st.title("User Feedback")
-
+	st.text("")
+	st.markdown("<div style='text-align: justify;'> Please provide your feedback for the selected actviity suggested to you. This will allow us to personalize activities for you in future. </div>", unsafe_allow_html=True)
+	st.text("")
+	st.text("")
 	if os.path.exists("df_feedback.csv"):
 		df_feedback = pd.read_csv("df_feedback.csv")
 	else:
@@ -84,7 +87,7 @@ def show_feedback_page():
 
 		df_feedback.to_csv("df_feedback.csv", index = False)
 
-		st.write(" Thank you for your feedback")
+		st.write(" Thank you for your feedback.")
 
 		
 

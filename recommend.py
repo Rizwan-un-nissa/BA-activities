@@ -21,7 +21,11 @@ le_rm = KM["le_rm"]
 
 def show_recommend_page():
 	st.title("Behavioural Activation Activities")
-
+	
+	st.markdown('<div style="text-align: justify;"> BA is a structured behaviour therapy that focuses on decreasing negative reinforcements and increasing positive reinforcements. It will take some effort to start an activity but it holds a strong potential to improve your mental health. </div>', unsafe_allow_html=True)
+	st.text("")
+	st.markdown("**Please select your inputs to get recommended activities**.")
+	st.text("")
 	values = (
 		'Citizenship/Community', 'Employment', 'Family Relations',
        'Friendship/Social Relations', 'Hobbies',
