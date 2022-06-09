@@ -7,13 +7,14 @@ data = pd.read_csv("BA_dataset.csv")
 
 
 def load_model():
-	with open('saved_steps.pkl', 'rb') as file:
+	with open('saved_steps_new.pkl', 'rb') as file:
 		KM = pickle.load(file)
 	return KM
 
 KM = load_model()
 
-KM_reloaded = KM["recommender"]
+KM_reloaded_4 = KM["recommender_4"]
+KM_reloaded_8 = KM["recommender_8"]
 le_values = KM["le_values"]
 le_cat = KM["le_cat"]
 le_lod = KM["le_lod"]
@@ -22,7 +23,7 @@ le_rm = KM["le_rm"]
 def show_recommend_page():
 	st.title("Behavioural Activation Activities")
 	
-	st.markdown('<div style="text-align: justify;"> BA is a structured behaviour therapy that focuses on decreasing negative reinforcements and increasing positive reinforcements. It will take some effort to start an activity but it holds a strong potential to improve your mental health. </div>', unsafe_allow_html=True)
+	st.markdown('<div style="text-align: justify;"> BA is a structured behaviour therapy that focuses on decreasing negative reinforcements and increasing positive reinforcements. It will take some effort to start an activity but it holds a strong potential to improve your mental health. </div>',unsafe_allow_html=True)
 	st.text("")
 	st.markdown("**Please select your inputs to get recommended activities**.")
 	st.text("")
@@ -65,16 +66,19 @@ def show_recommend_page():
 		Inp[:,3] = le_rm.transform(Inp[:,3])
 		Inp = Inp.astype(int)
 
-		cluster = KM_reloaded.predict(Inp)
-		p = cluster[0]
+		cluster_4 = KM_reloaded_4.predict(Inp)
+		p_4 = cluster_4[0]
 
-		if len( data[(data["km4"]==p) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
+		cluster_8 = KM_reloaded_8.predict(Inp)
+		p_8 = cluster_8[0]
+
+		if len( data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
 			activities = data[(data["km4"]==p)]['activities'].sample(3)
 
-		if len( data[(data["km8"]==p) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
+		elif len( data[(data["km8"]==p_8) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
 			activities = data[(data["km8"]==p)]['activities'].sample(3)
 		else:
-			activities = data[(data["km4"]==p) & (data["values"] == Inp[:,0][0])]['activities']
+			activities = data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']
 		st.subheader("Recommended activities are:")
 		st.write(activities)
 		

@@ -1,151 +1,151 @@
-values,activities,category,level_of_difficulty,related_mood,km4,km5,km8,agg4,agg5,agg8,gmm4,gmm5,gmm8
-0,Upcycling/Recycling old items,2,0,10,3,0,3,2,0,5,2,0,3
-0,Participate in communal activities,1,2,4,1,3,1,0,4,4,1,1,6
-0,Make donations,2,1,17,2,4,7,1,1,0,0,3,7
-0,Volunteering for a cause you support,2,2,4,1,3,1,0,4,4,1,1,6
-0,Donating old clothes or items to charity,2,0,3,1,3,1,0,4,4,1,1,6
-0,Doing a favour,2,2,4,1,3,1,0,4,4,1,1,6
-0,Helping in shelter homes,2,1,10,3,0,3,2,0,5,2,0,3
-0,Joining a community choir,1,2,4,1,3,1,0,4,4,1,1,6
-0,Participate in a communal clean-up,2,2,16,2,4,7,1,1,0,0,3,7
-0,Teaching a special skill to soemone else,0,3,4,1,3,1,0,4,4,1,1,6
-1,Clearing debts,2,3,17,2,4,7,1,1,0,0,3,7
-1,Getting to know your peers,2,2,4,1,3,1,0,4,4,1,1,6
-1,Creative experiments,2,1,19,2,4,7,1,1,0,0,3,7
-1,Apply for a promotion,0,3,7,3,3,1,0,4,4,2,0,6
-1,Planning a career change,0,3,17,2,4,7,1,1,0,3,2,7
-2,Have a family get together,1,1,10,3,0,3,2,0,5,2,0,3
-2,Call a family member,2,0,17,2,4,7,1,1,0,0,3,7
-2,Do an activity with the family,2,1,10,3,0,3,2,0,5,2,0,3
-2,Schedule Play time with kids,2,2,17,2,4,7,1,1,0,0,3,7
-2,Have at least one meal a day with the family,2,0,0,1,2,4,0,2,2,1,1,1
-2,Send a card to a loved one,2,0,10,3,0,3,2,0,5,2,0,3
-2,Going on a picnic,1,2,4,1,3,1,0,4,4,1,1,6
-2,Talk to an elderly member of the family,2,0,4,1,3,1,0,4,4,1,1,6
-2,Plan a random surprise ,1,0,9,3,0,3,2,0,5,2,0,3
-2,Having  honest conversations with the family,2,1,3,1,3,1,0,4,4,1,1,6
-3,Going on a date,1,2,10,3,0,3,2,0,5,2,0,3
-3,Going to a movie,1,2,2,1,2,4,0,2,2,1,1,1
-3,Call a friend,2,0,10,3,0,3,2,0,5,2,0,3
-3,Listening to others,2,0,4,1,3,1,0,4,4,1,1,6
-3,Spending time with friends,1,0,6,3,3,1,2,0,1,2,4,4
-3,Meeting new people,1,1,4,1,3,1,0,4,4,1,1,6
-3,Going to a party,1,2,1,1,2,4,0,2,2,1,1,1
-3,Having a deep conversation with a friend,2,1,3,1,3,1,0,4,4,1,1,6
-3,Host a trivia/quiz night,1,0,9,3,0,3,2,0,5,2,0,3
-3,Text a friend,2,0,10,3,0,3,2,0,5,2,0,3
-3,Contacting an old school friend ,2,2,4,1,3,1,0,4,4,1,1,6
-3,Planning a nice surprise for someone else,2,2,4,1,3,1,0,4,4,1,1,6
-3,Talking/introducing yourself to a neighbour,2,2,9,3,0,3,2,0,5,2,0,3
-3,Having an indoor picnic,1,0,10,3,0,3,2,0,5,2,0,3
-3,Going to a public place and mixing with new people,1,2,4,1,3,1,0,4,4,1,1,6
-3,Having a barbeque,1,2,10,3,0,3,2,0,5,2,0,3
-3,Join a book club,2,2,22,2,4,6,1,1,6,0,2,2
-3,Having reunions,1,1,10,3,0,3,2,0,5,2,0,3
-4,"Collecting things(Coins,shells,etc.)",1,0,20,2,4,6,1,1,0,3,2,2
-4,Listening to music,1,0,1,1,2,4,0,2,2,1,1,1
-4,Reading ,1,2,14,0,1,0,3,3,7,3,3,0
-4,Dancing ,0,0,17,2,4,2,1,1,0,3,3,5
-4,"Watching Tv, movies, plays",1,0,1,1,2,4,0,2,2,1,1,1
-4,Board games,1,0,1,1,2,4,0,2,2,1,1,1
-4,"Arts and crafts, sewing, painting",0,1,20,2,4,6,1,1,0,3,2,2
-4,Cooking,0,2,19,2,4,2,1,1,0,3,2,2
-4,Gardening,0,2,0,1,2,4,0,2,2,1,1,1
-4,Shopping,1,0,23,2,4,6,1,1,6,3,2,2
-4,Photography,0,1,20,2,4,6,1,1,0,3,2,2
-4,Playing golf,1,2,1,1,2,4,0,2,2,1,1,1
-4,Playing soccer,1,2,10,3,0,3,2,0,5,2,0,3
-4,Flying kites,1,0,1,1,2,4,0,2,2,1,1,1
-4,Playing squash,1,2,17,2,4,2,1,1,0,3,3,5
-4,Bird-watching,1,0,2,1,2,4,0,2,2,1,1,1
-4,Playing tennis,1,2,6,3,3,1,2,0,1,2,4,4
-4,knitting/crotcheing/quilting,0,2,20,2,4,6,1,1,0,3,2,2
-4,Solving puzzles,1,2,14,0,1,0,3,3,7,3,3,0
-4,Going skiing,1,2,2,1,2,4,0,2,2,1,1,1
-4,"Going to planetarium, museum or observatory",1,2,1,1,2,4,0,2,2,1,1,1
-4,Playing lawn games ,1,0,1,1,2,4,0,2,2,1,1,1
-4,Baking a homemade bread,0,2,22,2,4,6,1,1,6,3,2,2
-4,Calligraphy,0,1,19,2,4,2,1,1,0,3,2,2
-4,Solving riddles,1,2,1,1,2,4,0,2,2,1,1,1
-4,Sightseeing ,1,0,1,1,2,4,0,2,2,1,1,1
-4,Cooking a new recipe,1,2,19,2,4,2,1,1,0,3,2,2
-4,Trying a new cuisine,1,0,1,1,2,4,0,2,2,1,1,1
-4,Doodling,1,0,1,1,2,4,0,2,2,1,1,1
-4,Badminton,1,0,0,1,2,4,0,2,2,1,1,1
-5,Taking a bath,1,0,18,2,4,2,1,1,0,3,3,5
-5,Going for a vacation,1,1,2,1,2,4,0,2,2,1,1,1
-5,Relaxing,1,0,12,3,0,0,3,3,7,2,0,0
-5,Making a playlist of feel good songs,1,0,3,1,2,4,0,2,2,1,1,1
-5,"Lighting scented candles, oils or incense",1,2,12,3,0,0,3,3,7,2,0,0
-5,Giving gratitude,2,2,18,2,4,2,1,1,0,0,3,5
-5,Lying in the sun,1,0,7,3,0,5,2,0,1,2,4,4
-5,Viewing sunlight in the morning and evening,2,0,17,0,4,2,1,1,0,0,3,5
-5,Laughing,1,0,17,0,4,2,1,1,0,0,3,5
-5,Having quiet evenings,2,0,2,1,2,4,0,2,2,1,1,6
-5,Making a list of qualities you have been complement for,2,1,3,1,2,4,0,2,2,1,1,6
-5,Accepting yourself,2,1,14,0,1,0,3,3,7,0,3,0
-5,Getting a goodnight's sleep,2,0,12,3,0,0,3,3,7,2,0,0
-5,Going for a drive,1,2,7,3,0,5,2,0,1,2,4,4
-5,Journaling,2,2,0,1,2,4,0,2,2,1,1,1
-5,Reflecting on achievements,2,0,14,0,1,0,3,3,7,0,3,0
-5,Cold showers,1,2,17,0,4,2,1,1,0,3,3,5
-5,Going camping ,1,2,2,1,2,4,0,2,2,1,1,1
-5,Physiological breath ,2,0,17,0,4,2,1,1,0,0,3,5
-5,Writing down a list of things you are grateful for,2,2,0,1,2,4,0,2,2,1,1,1
-5,Bringing fresh flowers into the house,1,0,7,3,0,5,2,0,1,2,4,4
-5,Avoiding harsh lights after 10 pm,2,2,17,0,4,2,1,1,0,0,3,5
-5,Eating foods rich in promoting brain health,2,2,3,1,2,4,0,2,2,1,1,6
-5,Take yourself on a date,2,2,15,0,1,0,3,3,3,0,3,0
-6,Organize things around the house,2,2,15,0,1,0,3,3,3,0,3,0
-6,Buying household gadgets,2,1,23,2,4,6,1,1,6,3,2,2
-6,Saving money,2,2,11,3,0,0,3,3,7,2,0,0
-6,"Reading newspapers, books.",1,0,5,1,2,5,2,0,1,2,4,4
-6,Paying debts,2,1,11,3,0,0,3,3,7,2,0,0
-6,Taking care of plants,1,2,10,3,0,5,3,3,7,2,0,3
-6,Decorating,1,0,19,2,4,2,1,1,0,3,3,5
-6,Weight management,0,1,21,2,4,6,1,1,6,3,2,2
-6,Travelling,1,1,7,3,0,5,2,0,1,2,4,4
-6,Driving,0,2,12,3,0,0,3,3,7,3,0,0
-6,Learning a  musical instrument,0,3,19,2,4,2,1,1,0,3,2,2
-6,Planning a to-do list,2,0,13,0,1,0,3,3,7,0,0,0
-6,Having a discussion about field of interest,2,2,19,2,4,2,1,1,0,0,3,5
-6,Planning to go to college or university,2,1,7,3,0,5,2,0,1,2,4,4
-6,Buying books,1,0,14,0,1,0,3,3,7,0,3,0
-6,Researching a topic of interest,0,2,14,0,1,0,3,3,7,3,3,0
-6,Listening to a podcast,1,0,22,2,4,6,1,1,6,3,2,2
-6,Doing dishes,2,0,13,0,1,0,3,3,7,0,0,0
-6,Clearing email inbox ,2,2,13,0,1,0,3,3,3,0,3,0
-6,Listening to an audiobook,2,2,14,0,1,0,3,3,3,0,3,0
-6,Learning a new language,0,1,19,2,4,2,1,1,0,3,2,2
-6,Taking an online class,0,2,22,2,4,6,1,1,6,3,2,2
-6,Writing,2,2,19,2,4,2,1,1,0,0,3,5
-6,Completing a task,2,0,22,2,4,6,1,1,6,3,2,2
-7,Jogging or walking,1,0,17,0,1,2,3,3,3,0,3,5
-7,swimming,1,1,17,0,1,2,3,3,3,3,3,5
-7,Going to gym,0,2,17,0,1,2,3,3,3,3,2,5
-7,Doing aerobics,0,1,17,0,1,2,3,3,3,3,3,5
-7,Healthy eating,2,2,21,2,4,6,1,1,6,3,2,2
-7,"Practicing karate, judo etc.",0,1,7,3,0,5,2,0,1,2,4,4
-7,Bicycle rides,1,2,16,0,1,2,3,3,3,3,3,0
-7,Buying clothes,2,0,15,0,1,0,3,3,3,0,3,0
-7,Cleaning,2,2,17,0,1,2,3,3,3,0,3,5
-7,Meal prep,2,2,15,0,1,0,3,3,3,0,3,0
-7,Declutter/clean ,2,2,15,0,1,0,3,3,3,0,3,0
-7,Working out at home,2,2,17,0,1,2,3,3,3,0,3,5
-7,Wearing comfortable clothing,1,0,14,0,1,0,3,3,7,0,3,0
-9,Praying/Meditating,0,2,3,1,2,4,0,2,2,2,4,1
-9,Thinking religious thoughts,2,1,8,3,0,5,2,0,1,2,4,4
-9,Reading religious literature,0,1,8,3,0,5,2,0,1,2,4,4
-8,Moisturizing your skin/face,2,0,15,0,1,0,3,3,3,0,3,0
-8,Seeing/showing photos,1,0,10,3,0,5,2,0,1,2,4,4
-8,Stretching ,2,2,17,0,1,2,3,3,3,0,3,5
-8,Snuggling with a blanket,1,0,9,3,0,5,2,0,1,2,4,4
-8,Wearing outfit that makes you feel good,1,0,14,0,1,0,3,3,3,0,3,0
-8,Waking up early and getting ready at a leisurely pace,1,2,0,1,2,4,0,2,2,1,1,1
-8,Early morning coffee and newspaper,1,0,15,0,1,0,3,3,3,0,3,0
-8,Doing an activity you have always dreamed of doing ,1,1,14,0,1,0,3,3,3,0,3,0
-8,Pampering yourself,1,0,15,0,1,0,3,3,3,0,3,0
-8,Making your favorite fast food at home,1,2,19,2,4,2,3,3,3,3,2,5
-8,Getting a manicure/pedicure,1,0,15,0,1,0,3,3,3,0,3,0
-8,Going window shopping,1,0,23,2,4,6,1,1,6,3,2,2
-8,Getting a massage,1,2,18,0,1,2,3,3,3,3,3,5
+,values,activities,category,level_of_difficulty,related_mood,km4,km5,km8,agg4,agg5,agg8,gmm4,gmm5,gmm8
+0,0,Upcycling/Recycling old items,2,0,10,3,0,3,2,0,5,2,4,5
+1,0,Participate in communal activities,1,2,4,1,3,1,0,4,4,3,2,0
+2,0,Making donations,2,1,17,2,4,7,1,1,0,1,1,4
+3,0,Volunteering for a cause you support,2,2,4,1,3,1,0,4,4,3,2,0
+4,0,Donating old clothes or items to charity,2,0,3,1,3,1,0,4,4,3,2,0
+5,0,Doing a favour,2,2,4,1,3,1,0,4,4,3,2,0
+6,0,Helping in shelter homes,2,1,10,3,0,3,2,0,5,2,4,5
+7,0,Joining a community choir,1,2,4,1,3,1,0,4,4,3,2,0
+8,0,Participate in a communal clean-up,2,2,16,2,4,7,1,1,0,1,1,4
+9,0,Teaching a special skill to soemone else,0,3,4,1,3,1,0,4,4,3,2,0
+10,1,Clearing debts,2,3,17,2,4,7,1,1,0,1,1,4
+11,1,Getting to know your peers,2,2,4,1,3,1,0,4,4,3,2,0
+12,1,Creative experiments,2,1,19,2,4,7,1,1,0,1,1,4
+13,1,Applying for a promotion,0,3,7,3,3,1,0,4,4,3,2,0
+14,1,Planning a career change,0,3,17,2,4,7,1,1,0,1,1,4
+15,2,Having a family get together,1,1,10,3,0,3,2,0,5,2,4,5
+16,2,Calling a family member,2,0,17,2,4,7,1,1,0,1,1,4
+17,2,Doing an activity with the family,2,1,10,3,0,3,2,0,5,2,4,5
+18,2,Scheduling play time with kids,2,2,17,2,4,7,1,1,0,1,1,4
+19,2,Having at least one meal a day with the family,2,0,0,1,2,4,0,2,2,0,3,6
+20,2,Sending a card to a loved one,2,0,10,3,0,3,2,0,5,2,4,5
+21,2,Going on a picnic,1,2,4,1,3,1,0,4,4,3,2,0
+22,2,Talking to an elderly member of the family,2,0,4,1,3,1,0,4,4,3,2,0
+23,2,Planning a random surprise ,1,0,9,3,0,3,2,0,5,2,4,5
+24,2,Having  honest conversations with the family,2,1,3,1,3,1,0,4,4,3,2,0
+25,3,Going on a date,1,2,10,3,0,3,2,0,5,2,4,5
+26,3,Going to a movie,1,2,2,1,2,4,0,2,2,0,3,6
+27,3,Calling a friend,2,0,10,3,0,3,2,0,5,2,4,5
+28,3,Listening to others,2,0,4,1,3,1,0,4,4,3,2,0
+29,3,Spending time with friends,1,0,6,3,3,1,2,0,1,2,2,7
+30,3,Meeting new people,1,1,4,1,3,1,0,4,4,3,2,0
+31,3,Going to a party,1,2,1,1,2,4,0,2,2,0,3,6
+32,3,Having a deep conversation with a friend,2,1,3,1,3,1,0,4,4,3,2,0
+33,3,Hosting a trivia/quiz night,1,0,9,3,0,3,2,0,5,2,4,5
+34,3,Texting a friend,2,0,10,3,0,3,2,0,5,2,4,5
+35,3,Contacting an old school friend ,2,2,4,1,3,1,0,4,4,3,2,0
+36,3,Planning a nice surprise for someone else,2,2,4,1,3,1,0,4,4,3,2,0
+37,3,Talking/introducing yourself to a neighbour,2,2,9,3,0,3,2,0,5,2,4,5
+38,3,Having an indoor picnic,1,0,10,3,0,3,2,0,5,2,4,5
+39,3,Going to a public place and mixing with new people,1,2,4,1,3,1,0,4,4,3,2,0
+40,3,Having a barbeque,1,2,10,3,0,3,2,0,5,2,4,5
+41,3,Joining a book club,2,2,22,2,4,6,1,1,6,1,1,3
+42,3,Having reunions,1,1,10,3,0,3,2,0,5,2,4,5
+43,4,"Collecting things(Coins,shells,etc.)",1,0,20,2,4,6,1,1,0,1,1,3
+44,4,Listening to music,1,0,1,1,2,4,0,2,2,0,3,6
+45,4,Reading ,1,2,14,0,1,0,3,3,7,1,1,2
+46,4,Dancing ,0,0,17,2,4,2,1,1,0,1,1,3
+47,4,"Watching Tv, movies, plays",1,0,1,1,2,4,0,2,2,0,3,6
+48,4,Playing board games,1,0,1,1,2,4,0,2,2,0,3,6
+49,4,"Arts and crafts, sewing, painting",0,1,20,2,4,6,1,1,0,1,1,3
+50,4,Cooking,0,2,19,2,4,2,1,1,0,1,1,3
+51,4,Gardening,0,2,0,1,2,4,0,2,2,0,3,6
+52,4,Shopping,1,0,23,2,4,6,1,1,6,1,1,3
+53,4,Photography,0,1,20,2,4,6,1,1,0,1,1,3
+54,4,Playing golf,1,2,1,1,2,4,0,2,2,0,3,6
+55,4,Playing soccer,1,2,10,3,0,3,2,0,5,2,4,5
+56,4,Flying kites,1,0,1,1,2,4,0,2,2,0,3,6
+57,4,Playing squash,1,2,17,2,4,2,1,1,0,1,1,3
+58,4,Bird-watching,1,0,2,1,2,4,0,2,2,0,3,6
+59,4,Playing tennis,1,2,6,3,3,1,2,0,1,2,2,7
+60,4,knitting/crotcheing/quilting,0,2,20,2,4,6,1,1,0,1,1,3
+61,4,Solving puzzles,1,2,14,0,1,0,3,3,7,1,1,2
+62,4,Going skiing,1,2,2,1,2,4,0,2,2,0,3,6
+63,4,"Going to planetarium, museum or observatory",1,2,1,1,2,4,0,2,2,0,3,6
+64,4,Playing lawn games ,1,0,1,1,2,4,0,2,2,0,3,6
+65,4,Baking a homemade bread,0,2,22,2,4,6,1,1,6,1,1,3
+66,4,Calligraphy,0,1,19,2,4,2,1,1,0,1,1,3
+67,4,Solving riddles,1,2,1,1,2,4,0,2,2,0,3,6
+68,4,Sightseeing ,1,0,1,1,2,4,0,2,2,0,3,6
+69,4,Cooking a new recipe,1,2,19,2,4,2,1,1,0,1,1,3
+70,4,Trying a new cuisine,1,0,1,1,2,4,0,2,2,0,3,6
+71,4,Doodling,1,0,1,1,2,4,0,2,2,0,3,6
+72,4,Badminton,1,0,0,1,2,4,0,2,2,0,3,6
+73,5,Taking a bath,1,0,18,2,4,2,1,1,0,1,1,3
+74,5,Going for a vacation,1,1,2,1,2,4,0,2,2,0,3,6
+75,5,Relaxing,1,0,12,3,0,0,3,3,7,1,0,2
+76,5,Making a playlist of feel good songs,1,0,3,1,2,4,0,2,2,0,3,6
+77,5,"Lighting scented candles, oils or incense",1,2,12,3,0,0,3,3,7,1,1,2
+78,5,Giving gratitude,2,2,18,2,4,2,1,1,0,1,0,1
+79,5,Lying in the sun,1,0,7,3,0,5,2,0,1,2,2,7
+80,5,Viewing sunlight in the morning and evening,2,0,17,0,4,2,1,1,0,1,0,1
+81,5,Laughing,1,0,17,0,4,2,1,1,0,1,1,1
+82,5,Having quiet evenings,2,0,2,1,2,4,0,2,2,0,3,0
+83,5,Making a list of qualities you have been complement for,2,1,3,1,2,4,0,2,2,3,3,0
+84,5,Accepting yourself,2,1,14,0,1,0,3,3,7,1,0,2
+85,5,Getting a goodnight's sleep,2,0,12,3,0,0,3,3,7,1,0,2
+86,5,Going for a drive,1,2,7,3,0,5,2,0,1,2,2,7
+87,5,Journaling,2,2,0,1,2,4,0,2,2,0,3,6
+88,5,Reflecting on achievements,2,0,14,0,1,0,3,3,7,1,0,2
+89,5,Cold showers,1,2,17,0,4,2,1,1,0,1,1,3
+90,5,Going camping ,1,2,2,1,2,4,0,2,2,0,3,6
+91,5,Physiological breath ,2,0,17,0,4,2,1,1,0,1,0,1
+92,5,Writing down a list of things you are grateful for,2,2,0,1,2,4,0,2,2,0,3,6
+93,5,Bringing fresh flowers into the house,1,0,7,3,0,5,2,0,1,2,2,7
+94,5,Avoiding harsh lights after 10 pm,2,2,17,0,4,2,1,1,0,1,0,1
+95,5,Eating foods rich in promoting brain health,2,2,3,1,2,4,0,2,2,0,3,0
+96,5,Take yourself on a date,2,2,15,0,1,0,3,3,3,1,0,2
+97,6,Organize things around the house,2,2,15,0,1,0,3,3,3,1,0,1
+98,6,Buying household gadgets,2,1,23,2,4,6,1,1,6,1,1,3
+99,6,Saving money,2,2,11,3,0,0,3,3,7,1,0,2
+100,6,"Reading newspapers, books.",1,0,5,1,2,5,2,0,1,2,2,7
+101,6,Paying debts,2,1,11,3,0,0,3,3,7,1,0,2
+102,6,Taking care of plants,1,2,10,3,0,5,3,3,7,1,4,2
+103,6,Decorating,1,0,19,2,4,2,1,1,0,1,1,3
+104,6,Weight management,0,1,21,2,4,6,1,1,6,1,1,3
+105,6,Travelling,1,1,7,3,0,5,2,0,1,2,2,7
+106,6,Driving,0,2,12,3,0,0,3,3,7,1,1,3
+107,6,Learning a  musical instrument,0,3,19,2,4,2,1,1,0,1,1,3
+108,6,Planning a to-do list,2,0,13,0,1,0,3,3,7,1,0,2
+109,6,Having a discussion about field of interest,2,2,19,2,4,2,1,1,0,1,0,1
+110,6,Planning to go to college or university,2,1,7,3,0,5,2,0,1,1,2,7
+111,6,Buying books,1,0,14,0,1,0,3,3,7,1,0,1
+112,6,Researching a topic of interest,0,2,14,0,1,0,3,3,7,1,1,3
+113,6,Listening to a podcast,1,0,22,2,4,6,1,1,6,1,1,3
+114,6,Doing dishes,2,0,13,0,1,0,3,3,7,1,0,2
+115,6,Clearing email inbox ,2,2,13,0,1,0,3,3,3,1,0,2
+116,6,Listening to an audiobook,2,2,14,0,1,0,3,3,3,1,0,2
+117,6,Learning a new language,0,1,19,2,4,2,1,1,0,1,1,3
+118,6,Taking an online class,0,2,22,2,4,6,1,1,6,1,1,3
+119,6,Writing,2,2,19,2,4,2,1,1,0,1,0,1
+120,6,Completing a task,2,0,22,2,4,6,1,1,6,1,1,3
+121,7,Jogging or walking,1,0,17,0,1,2,3,3,3,1,0,1
+122,7,swimming,1,1,17,0,1,2,3,3,3,1,0,1
+123,7,Going to gym,0,2,17,0,1,2,3,3,3,1,1,3
+124,7,Doing aerobics,0,1,17,0,1,2,3,3,3,1,1,3
+125,7,Healthy eating,2,2,21,2,4,6,1,1,6,1,0,3
+126,7,"Practicing karate, judo etc.",0,1,7,3,0,5,2,0,1,2,2,7
+127,7,Bicycle rides,1,2,16,0,1,2,3,3,3,1,0,3
+128,7,Buying clothes,2,0,15,0,1,0,3,3,3,1,0,1
+129,7,Cleaning,2,2,17,0,1,2,3,3,3,1,0,1
+130,7,Meal prep,2,2,15,0,1,0,3,3,3,1,0,1
+131,7,Declutter/clean ,2,2,15,0,1,0,3,3,3,1,0,1
+132,7,Working out at home,2,2,17,0,1,2,3,3,3,1,0,1
+133,7,Wearing comfortable clothing,1,0,14,0,1,0,3,3,7,1,0,1
+134,9,Praying/Meditating,0,2,3,1,2,4,0,2,2,2,3,6
+135,9,Thinking religious thoughts,2,1,8,3,0,5,2,0,1,1,2,7
+136,9,Reading religious literature,0,1,8,3,0,5,2,0,1,2,2,7
+137,8,Moisturizing your skin/face,2,0,15,0,1,0,3,3,3,1,0,1
+138,8,Seeing/showing photos,1,0,10,3,0,5,2,0,1,1,0,7
+139,8,Stretching ,2,2,17,0,1,2,3,3,3,1,0,1
+140,8,Snuggling with a blanket,1,0,9,3,0,5,2,0,1,1,0,7
+141,8,Wearing outfit that makes you feel good,1,0,14,0,1,0,3,3,3,1,0,1
+142,8,Waking up early and getting ready at a leisurely pace,1,2,0,1,2,4,0,2,2,0,3,6
+143,8,Early morning coffee and newspaper,1,0,15,0,1,0,3,3,3,1,0,1
+144,8,Doing an activity you have always dreamed of doing ,1,1,14,0,1,0,3,3,3,1,0,1
+145,8,Pampering yourself,1,0,15,0,1,0,3,3,3,1,0,1
+146,8,Making your favorite fast food at home,1,2,19,2,4,2,3,3,3,1,0,3
+147,8,Getting a manicure/pedicure,1,0,15,0,1,0,3,3,3,1,0,1
+148,8,Going window shopping,1,0,23,2,4,6,1,1,6,1,1,3
+149,8,Getting a massage,1,2,18,0,1,2,3,3,3,1,0,3
