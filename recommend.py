@@ -59,6 +59,7 @@ def show_recommend_page():
 	
 	recommend = st.button("Recommend activities")
 	if recommend:
+		# Encoding inputs
 		Inp = np.array([[value, category, lod, rm]])
 		Inp[:,0] = le_values.transform(Inp[:,0])
 		Inp[:,1] = le_cat.transform(Inp[:,1])
@@ -66,13 +67,16 @@ def show_recommend_page():
 		Inp[:,3] = le_rm.transform(Inp[:,3])
 		Inp = Inp.astype(int)
 
+		# Predicting clusters according to KM4
 		cluster_4 = KM_reloaded_4.predict(Inp)
 		p_4 = cluster_4[0]
 
+		# Predicting clusters according to KM8
 		cluster_8 = KM_reloaded_8.predict(Inp)
 		p_8 = cluster_8[0]
 
-		if len( data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
+		# Recommendations
+		if len( data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']) == 0: 
 			activities = data[(data["km4"]==p)]['activities'].sample(3)
 
 		elif len( data[(data["km8"]==p_8) & (data["values"] == Inp[:,0][0])]['activities']) == 0:

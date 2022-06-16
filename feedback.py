@@ -10,13 +10,14 @@ else:
 	df_feedback = pd.DataFrame(columns=["values",  'category', 'level_of_difficulty','related_mood', 'activities'])
 
 def load_model():
-	with open('saved_steps.pkl', 'rb') as file:
+	with open('saved_steps_new.pkl', 'rb') as file:
 		KM = pickle.load(file)
 	return KM
 
 KM = load_model()
 
-KM_reloaded = KM["recommender"]
+KM_reloaded_4 = KM["recommender_4"]
+KM_reloaded_8 = KM["recommender_8"]
 le_values = KM["le_values"]
 le_cat = KM["le_cat"]
 le_lod = KM["le_lod"]
@@ -67,6 +68,7 @@ def show_feedback_page():
 
 	feedback = st.button("Feedback")
 	if feedback:
+		# Encoding input
 		Inp = np.array([[value, category, lod, rm]])
 		Inp[:,0] = le_values.transform(Inp[:,0])
 		Inp[:,1] = le_cat.transform(Inp[:,1])
@@ -76,15 +78,17 @@ def show_feedback_page():
 		Inp = list(*Inp)
 		Inp.append(activity)
 
+		# Adding new value
 		if len(df_feedback.loc[df_feedback['activities'] == Inp[4] ] ) == 0:
 			df_feedback = df_feedback.append(pd.Series(Inp, index = df_feedback.columns), ignore_index=True)
+		# Updating existing information	
 		else:
 			df_feedback.replace(df_feedback.loc[df_feedback["activities" ]==Inp[4]].iloc[0][0], Inp[0], inplace=True)
 			df_feedback.replace(df_feedback.loc[df_feedback["activities" ]==Inp[4]].iloc[0][1], Inp[1], inplace=True)
 			df_feedback.replace(df_feedback.loc[df_feedback["activities" ]==Inp[4]].iloc[0][2], Inp[2], inplace=True)
 			df_feedback.replace(df_feedback.loc[df_feedback["activities" ]==Inp[4]].iloc[0][3], Inp[3], inplace=True)
 			
-
+		# saving feedback	
 		df_feedback.to_csv("df_feedback.csv", index = False)
 
 		st.write(" Thank you for your feedback.")
