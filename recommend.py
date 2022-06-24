@@ -77,12 +77,17 @@ def show_recommend_page():
 
 		# Recommendations
 		if len( data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']) == 0: 
-			activities = data[(data["km4"]==p)]['activities'].sample(3)
+			if len( data[(data["km8"]==p_8) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
+				activities = data[(data["km4"]==p)]['activities']
 
-		elif len( data[(data["km8"]==p_8) & (data["values"] == Inp[:,0][0])]['activities']) == 0:
-			activities = data[(data["km8"]==p)]['activities'].sample(3)
-		else:
+		elif len( data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']) != 0: 
 			activities = data[(data["km4"]==p_4) & (data["values"] == Inp[:,0][0])]['activities']
+			
+		elif len( data[(data["km8"]==p_8) & (data["values"] == Inp[:,0][0])]['activities']) != 0:
+			activities = data[(data["km8"]==p_8) & (data["values"] == Inp[:,0][0])]['activities']
+
+
+		
 		st.subheader("Recommended activities are:")
 		st.write(activities)
 		
